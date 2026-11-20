@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+/vault/
+examples/sample-vault/GRAPH.md
+examples/sample-vault/proposals/dream-*.md
+.env
+.DS_Store
